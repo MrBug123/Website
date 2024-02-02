@@ -24,4 +24,4 @@ Ensure that you have the following installed on your server:
 1. Clone the repository to your local machine
 
    ```bash
-   git clone https://github.com/your-username/php-login-system.git
+   git clone https://github.com/MrBug123/Website.git
