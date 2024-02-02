@@ -24,7 +24,7 @@ if(isset($_POST['login']) == "login")
         exit;
     }
     else {
-        header("location:fail.php");
+        header("location:login.php?err=true");
         exit;
     }
 }
