@@ -1,3 +1,4 @@
+![Login System Image](https://github.com/MrBug123/Website/blob/main/image.png)
 # PHP Login System
 
 This repository contains a basic PHP and MySQL login system for web applications. It includes user authentication, cookie handling, and session management.
